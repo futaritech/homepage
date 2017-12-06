@@ -97,6 +97,7 @@ jQuery(document).ready(function($) {
 
               }
             });
+            alert('Thanks for the email, we\'ll be in touch soon.');
         return false;
     });
 
